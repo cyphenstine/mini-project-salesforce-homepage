@@ -11,14 +11,14 @@ html,body{
     width: 100%;
 }
 #nav{
-    height: 12%;
+    height: 13%;
     width: 100%;
     position: fixed;
     display: flex;
     background-color: antiquewhite;
 }
 #fake-nav{
-    height: 12%;
+    height: 13%;
     width: 100%;
 }
 #nav-img{
@@ -63,27 +63,27 @@ html,body{
     font-weight: lighter;
 }
 #page1{
-    height: 88%;
+    height: 87%;
     width: 100%;
     background-color: blueviolet;
 }
 #page2{
-    height: 88%;
+    height: 87%;
     width: 100%;
     background-color: rgba(38, 5, 69, 0.35);
 }
 #contact-link{
     margin-top: 25px;
-    margin-left: 130px;
-    width: 200px;
+    margin-left: 150px;
+    width: 150px;
     text-align: center;
     font-family:sans-serif ;
 }
 .icon{
     height: 35px;
     width: 35px;
-    margin-right: 20px;
-    margin-top: 25px;
+    margin-right: 15px;
+    margin-top: 27px;
     border-radius: 20px;
     cursor: pointer;
     display: flex;
@@ -94,7 +94,7 @@ html,body{
     height: 35px;
     width: 35px;
     margin-right: 20px;
-    margin-top: 25px;
+    margin-top: 27px;
     border-radius: 20px;
     background-color: rgb(197, 221, 241);
     display: flex;
@@ -106,8 +106,8 @@ html,body{
 }
 #login{
     display: flex;
-    margin-right: 20px;
-    margin-top: 22px;
+    margin-right: 21px;
+    margin-top: 24px;
     width: 65px;
     height: 40px;
     display: flex;
@@ -118,8 +118,8 @@ html,body{
 }
 #login:hover{
     display: flex;
-    margin-right: 20px;
-    margin-top: 22px;
+    margin-right: 21px;
+    margin-top: 24px;
     width: 65px;
     height: 40px;
     display: flex;
@@ -130,27 +130,28 @@ html,body{
     background-color: rgb(197, 221, 241);
 }
 #try-button{
-    background-color: rgb(22, 170, 22);
-    width: 120px;
-    height: 40px;
+    background-color: rgb(46, 132, 74);
+    width: 140px;
+    height: 45px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 5px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-top: 22px;
+    margin-top: 25px;
     cursor: pointer;
     font-weight: bolder;
     color: aliceblue;
+    font-size: large;
 }
 #try-button:hover{
-    background-color: rgba(15, 58, 15, 0.67);
-    width: 120px;
-    height: 40px;
+    background-color: rgb(28, 51, 38);
+    width: 140px;
+    height: 45px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 5px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-top: 22px;
+    margin-top: 25px;
 }
